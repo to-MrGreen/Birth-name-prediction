@@ -1,0 +1,2 @@
+# Birth-name-prediction
+program will ask your name, birth year, your gender then it will ask "If you want to born in any specific past year, so it will take that year as an input, then program will do some compare with your actual birth year's data file and your given year which want to born data file. lastly, it will come up with best possible name of your according to your given years(actual birth year &amp; if you born any past year except your actual birth year).
